@@ -25,6 +25,11 @@ pip install -r requirements.txt
 
 
 
+```power shell
+jupyter lab
+```
+<br>
+
 
 
 出典：[国土交通省近畿地方整備局](https://www.kkr.mlit.go.jp/index.html)ホームページをもとに作成<br>
